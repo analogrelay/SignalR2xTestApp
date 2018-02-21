@@ -103,6 +103,7 @@
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
     <None Include="Properties\PublishProfiles\an-sig2x-s01 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\an-sig2x-s02 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
