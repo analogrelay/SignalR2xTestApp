@@ -1,0 +1,12 @@
+SignalR.PerformanceCounterManager Error: 0 : Performance counter failed to load: System.InvalidOperationException: The requested Performance Counter is not a custom counter, it has to be initialized as ReadOnly.
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at Microsoft.AspNet.SignalR.Infrastructure.PerformanceCounterManager.LoadCounter(String categoryName, String counterName, String instanceName, Boolean isReadOnly)
+SignalR.PerformanceCounterManager Error: 0 : Performance counter failed to load: System.InvalidOperationException: The requested Performance Counter is not a custom counter, it has to be initialized as ReadOnly.
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at Microsoft.AspNet.SignalR.Infrastructure.PerformanceCounterManager.LoadCounter(String categoryName, String counterName, String instanceName, Boolean isReadOnly)
+SignalR.PerformanceCounterManager Error: 0 : Performance counter failed to load: System.InvalidOperationException: The requested Performance Counter is not a custom counter, it has to be initialized as ReadOnly.
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at Microsoft.AspNet.SignalR.Infrastructure.PerformanceCounterManager.LoadCounter(String categoryName, String counterName, String instanceName, Boolean isReadOnly)
